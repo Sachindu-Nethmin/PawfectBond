@@ -1,6 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🐾 PawfectBond
 
-## Getting Started
+<div align="center">
+  <img src="public/screenshots/preview.png" alt="PawfectBond Preview" width="100%" />
+  
+  <br />
+  
+  <h3>Connect with your new best friend today!</h3>
+  
+  [**Visit Live Site**](https://pawfectbond.netlify.app/)
+</div>
+
+<br />
+
+## 📖 About
+
+**PawfectBond** is a modern pet adoption platform designed to connect loving homes with animals in need. Our mission is to streamline the adoption process, making it easier for potential adopters to find their perfect match while helping shelters and rescuers showcase their animals effectively.
+
+## ✨ Features
+
+- **Browse Pets:** View a gallery of available dogs and cats with detailed profiles.
+- **Search & Filter:** Easily find pets by name, breed, or location.
+- **Responsive Design:** A seamless experience across all devices (Mobile, Tablet, Desktop).
+- **Direct Contact:** Connect directly with shelters or rescuers via WhatsApp or Phone.
+- **Modern UI:** A clean, intuitive, and visually appealing interface.
+
+## 🛠️ Tech Stack
+
+- **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
+- **Language:** [TypeScript](https://www.typescriptlang.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **Deployment:** [Netlify](https://www.netlify.com/)
+
+## 🚀 Getting Started
 
 First, run the development server:
 
@@ -18,19 +50,22 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🤝 Contributing
 
-## Learn More
+We welcome contributions to make PawfectBond even better!
 
-To learn more about Next.js, take a look at the following resources:
+1.  **Fork** the repository.
+2.  Create a new **Branch** (`git checkout -b feature/AmazingFeature`).
+3.  **Commit** your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  **Push** to the branch (`git push origin feature/AmazingFeature`).
+5.  Open a **Pull Request**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is open source and available under the [MIT License](LICENSE).
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<div align="center">
+  Made with ❤️ for animals by <a href="https://github.com/Sachindu-Nethmin">Sachindu Nethmin</a>
+</div>
