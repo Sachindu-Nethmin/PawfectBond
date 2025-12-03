@@ -1,5 +1,5 @@
 import { AnimalGrid } from "@/components/animals/AnimalGrid";
-import { FilterBar } from "@/components/animals/FilterBar";
+
 import { animals } from "@/lib/data";
 
 export default function AnimalsPage() {
@@ -10,11 +10,10 @@ export default function AnimalsPage() {
                     <h1 className="text-4xl font-bold text-foreground mb-4">Adopt a Pet</h1>
                     <p className="text-muted-foreground max-w-2xl mx-auto">
                         Browse our available pets and find your perfect match.
-                        Use the filters below to narrow down your search.
                     </p>
                 </div>
 
-                <FilterBar />
+
 
                 <AnimalGrid animals={animals} />
             </div>

@@ -4,7 +4,7 @@ export const animals: Animal[] = [
     // New Puppies
     {
         id: "pup1",
-        name: "Leo",
+        name: "Bruno",
         breed: "Mixed Breed",
         age: "2 months",
         gender: "Male",
@@ -14,7 +14,7 @@ export const animals: Animal[] = [
     },
     {
         id: "pup2",
-        name: "Teddy",
+        name: "Rio",
         breed: "Mixed Breed",
         age: "2 months",
         gender: "Male",
@@ -24,7 +24,7 @@ export const animals: Animal[] = [
     },
     {
         id: "pup3",
-        name: "Bear",
+        name: "Rocky",
         breed: "Mixed Breed",
         age: "2 months",
         gender: "Male",
