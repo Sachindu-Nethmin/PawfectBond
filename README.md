@@ -19,7 +19,6 @@
 ## ✨ Features
 
 - **Browse Pets:** View a gallery of available dogs and cats with detailed profiles.
-- **Search & Filter:** Easily find pets by name, breed, or location.
 - **Responsive Design:** A seamless experience across all devices (Mobile, Tablet, Desktop).
 - **Direct Contact:** Connect directly with shelters or rescuers via WhatsApp or Phone.
 - **Modern UI:** A clean, intuitive, and visually appealing interface.
